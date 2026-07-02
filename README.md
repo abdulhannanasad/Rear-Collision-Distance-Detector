@@ -160,4 +160,3 @@ Contributions are welcome! Here's how:
 
 Hannan Asad - (abdul.hannan9969@gmail.com)
 
-Project Link: [https://github.com/yourusername/RearObstacleDetector](https://github.com/yourusername/RearObstacleDetector)
