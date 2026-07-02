@@ -149,9 +149,6 @@ Contributions are welcome! Here's how:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -161,6 +158,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Your Name - @yourtwitter - email@example.com
+Hannan Asad - (abdul.hannan9969@gmail.com)
 
 Project Link: [https://github.com/yourusername/RearObstacleDetector](https://github.com/yourusername/RearObstacleDetector)
