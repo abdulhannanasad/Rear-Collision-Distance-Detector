@@ -43,7 +43,7 @@ Camera Feed → Object Detection → Size Analysis → Distance Estimation → V
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/RearObstacleDetector.git
+   git clone https://github.com/yourusername/Rear-Collision-Distance-Detector.git
    ```
 
 2. **Open in Android Studio**
